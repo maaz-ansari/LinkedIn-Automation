@@ -1,1 +1,1 @@
-web: python linkedin.py
+web: python LinkedInBot.py
