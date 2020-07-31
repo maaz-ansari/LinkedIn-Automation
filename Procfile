@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run linkedin.py
+web: sh setup.sh && streamlit run LinkedInBot.py
